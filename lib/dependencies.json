@@ -1,0 +1,14 @@
+{
+  "react": {
+    "name": "react",
+    "version": "18.2.0"
+  },
+  "react-native": {
+    "name": "react-native",
+    "version": "0.73.0"
+  },
+  "@react-native-async-storage/async-storage": {
+    "name": "@react-native-async-storage/async-storage",
+    "version": "1.21.0"
+  }
+}
