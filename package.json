@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "Dependency management & utils for the Super App",
   "license": "MIT",
-  "homepage": "https://github.com/callstack/super-app-showcase",
-  "repository": "github:callstack/super-app-showcase",
+  "homepage": "https://github.com/dinhbt/super-app",
+  "repository": "https://github.com/dinhbt/sdk",
   "main": "index.js",
   "files": [
     "android",
